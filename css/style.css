@@ -123,3 +123,32 @@ img {
     background-color: red;
     border-radius: 15px;
 }
+.dist1{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    background-color: black;
+}
+.txty{
+    text-align: justify;
+    margin: 10px;
+    background: linear-gradient(to top, rgb(70, 240, 113), rgb(250, 75, 75));
+    height: 70vh;
+    border-radius: 20px;
+}
+.imghuevo{
+    width: 40vh;
+    border-radius: 15px;
+}
+.temahuevo{
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.imgmiel{
+    width: 40vh;
+    border-radius: 15px;
+}
+.temamiel{
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
