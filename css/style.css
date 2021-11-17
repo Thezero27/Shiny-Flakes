@@ -133,7 +133,7 @@ img {
     text-align: justify;
     margin: 10px;
     background: linear-gradient(to top, rgb(70, 240, 113), rgb(250, 75, 75));
-    height: 70vh;
+    height: 75vh;
     border-radius: 20px;
 }
 .imghuevo{
@@ -151,4 +151,14 @@ img {
 .temamiel{
     color: green;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.precio-huevo{
+    font-family: calibri;
+    font-size: 3vh;
+    text-decoration: none;
+}
+.precio-gallina{
+    font-family: calibri;
+    font-size: 3vh;
+    text-decoration: none;
 }
