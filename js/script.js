@@ -12,7 +12,7 @@ const getValueInput = () => {
     if (usuario == usrot && pass == passt) {
         //var aviso = document.getElementById("error-login")
         document.getElementById("error-login1").innerHTML = "Login correcto";
-        //vete la mrd XD
+        //Vete la mrd
         open("/Shiny-Flakes/home.html")
         //JaJaJa
         //para trabajar...si terminas y vas a subir al servidor borralo
