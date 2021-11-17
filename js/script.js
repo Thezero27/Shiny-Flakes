@@ -16,8 +16,8 @@ const getValueInput = () => {
         //para trabajar...si terminas y vas a subir al servidor borralo
         //open("/TRABAJOS%20MIGUEL/PAGINAS%20WEB/HTML5/Tienda/Drogas/home.html")
         //Desbloquea es para subir al servidor
-        open("/Shiny-Flakes/home.html")
-        //open("home.html")
+        //open("/Shiny-Flakes/home.html")
+        open("/home.html")
     }
     if (usuario != usrot) {
         //var aviso = document.getElementById("error-login")
