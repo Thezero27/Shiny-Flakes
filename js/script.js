@@ -12,7 +12,7 @@ const getValueInput = () => {
     if (usuario == usrot && pass == passt) {
         //var aviso = document.getElementById("error-login")
         document.getElementById("error-login1").innerHTML = "Login correcto";
-        open("Shiny-Flakes/home.html")
+        open("/Shiny-Flakes/home.html")
         //para trabajar...si terminas y vas a subir al servidor borralo
         //open("/TRABAJOS%20MIGUEL/PAGINAS%20WEB/HTML5/Tienda/Drogas/home.html")
         //Desbloquea es para subir al servidor
